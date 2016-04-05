@@ -202,8 +202,8 @@ tr a:visited{
 	font-family: cool;
 }
 
-.materialshows p{
-	font-size: 20px;
+.materialshows p, .materialshows ul li{
+	font-size: 17px;
 }
 
 .galeria a:hover, .logo a:hover{
